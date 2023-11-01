@@ -24,7 +24,7 @@
 
 ### Links
 
-- Solution URL: (https://github.com/DMKALALA/Profile-Card-UI-Design-main)
+- Solution URL: (https://github.com/DMKALALA/Profile-Card-UI-Design)
 - Live Site URL: (https://dmkalala.github.io/Profile-Card-UI-Design/)
 
 ## My process
